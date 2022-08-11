@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-probooks/static/css/main.edf837a8.css",
+    "main.js": "/react-probooks/static/js/main.68602ddb.js",
+    "index.html": "/react-probooks/index.html",
+    "main.edf837a8.css.map": "/react-probooks/static/css/main.edf837a8.css.map",
+    "main.68602ddb.js.map": "/react-probooks/static/js/main.68602ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf837a8.css",
+    "static/js/main.68602ddb.js"
+  ]
+}
